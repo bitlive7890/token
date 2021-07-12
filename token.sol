@@ -225,7 +225,7 @@ contract PausableToken is StandardToken, Pausable {
   
 }
 
-contract Rokda is PausableToken {
+contract Lovely Inu Finance is PausableToken {
     string public name;
     string public symbol;
     uint public decimals;
